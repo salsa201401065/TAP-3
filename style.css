@@ -12,14 +12,18 @@ body{
 @media screen and (min-width:993px){
 .form-control {
 	width:345px;
+    margin-right: 2vw;
+    
 }
 }
 
 @media screen and (max-width:993px){
 .navbar-nav{
 	text-align: center;
+   
 }
 }
+  
 
 #movie-list{
     margin-top: 5%;
